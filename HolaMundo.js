@@ -1,2 +1,2 @@
 console.log('HolaMundo');
-document.write('Hola Mundo')
+document.write('hola mundo')
